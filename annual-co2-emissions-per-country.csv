@@ -1,4 +1,4 @@
-Entity,Code,Year,Annual CO₂ emissions,EntityYear
+Entity,Code,Year,Annual CO₂ emissions,entityYear
 World,OWID_WRL,2024,38598580000,World2024
 World,OWID_WRL,2023,38094040000,World2023
 World,OWID_WRL,2022,37527773000,World2022
@@ -29384,3 +29384,4 @@ Taiwan,TWN,1893,0,Taiwan1893
 Taiwan,TWN,1894,0,Taiwan1894
 Taiwan,TWN,1895,0,Taiwan1895
 ,,,,
+
